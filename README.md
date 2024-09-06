@@ -21,7 +21,7 @@ Text
 
 <p align="center">
 
-This is a continuation of the previous repositories: "Installing Active Directory", and "Configuring and Troubleshooting Active Directory". This serves as a means to explore and document my expeirence with various remote administration tools both native and non-native to Windows. For my knowledge a large part of IT support and heldesk duties involve remotely assisting users with problems they may be facing so having familiarity with some of these tools would be helpful.<br/>
+This is a continuation of the previous repositories: "Installing Active Directory", and "Configuring and Troubleshooting Active Directory". This serves as a means to explore and document my expeirence with various remote administration tools both native and non-native to Windows. From my knowledge a large part of IT support and heldesk duties involve remotely assisting users with problems they may be facing so having familiarity with some of these tools would be helpful.<br/>
  <br/>
  <br/>
 The first and most obvious method of remote support is to use one of the native tools to Windows machines, Remote Desktop (RDP). This was set to off to default on john (the user/client machine). It had the message "Sign in as an administrator to change this setting", yet it did have the pop-up windows for me to input my admin credentials so I literally had to log of john smith, log in helpdesk, change the setting, then log back in as john. Maybe their was an easier way that I am not aware of. I started up the Lab-Desktop-1, (helpdesk's machine), and tried to RDP into john's computer with the domain name "Desktop2" rather than the IP address of 10.1.10.4 and it suprisingly worked. <br/>
