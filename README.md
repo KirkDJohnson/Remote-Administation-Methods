@@ -38,7 +38,7 @@ Another mode of remote administration can be done through registry editor. As he
  <img src="https://github.com/user-attachments/assets/bc9a3bba-1ffb-448a-bf30-0f228a78a26f" alt="Remote Methods"/>
 <br />
 <br />
-A simple, but seemingly very powerful option that I was not aware of, is being able to see (AND EDIT) the entire file system of Desktop2 through file explorer while on Lab-Desktop-2 logged in as helpdesk that has administrator rights. Similar to mapping access a shared drive, but in file explorer, I input "\\Desktop2\c$" and it brings me to the C:\ drive of Desktop 2 from Lab-Desktop-1.<br/>
+A simple, but seemingly very powerful option that I was not aware of, is being able to see (AND EDIT) the entire file system of Desktop2 through file explorer while on Lab-Desktop-2 logged in as helpdesk that has administrator rights. Similar to mapping access a shared drive, but in file explorer, I input "\\\Desktop2\c$" and it brings me to the C:\ drive of Desktop 2 from Lab-Desktop-1.<br/>
 <img src="https://github.com/user-attachments/assets/1fe179fb-66f0-4444-acd7-b1286f22f679" alt="Remote Methods"/>
 <br />
 <br />
