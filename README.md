@@ -2,7 +2,7 @@
 
 <br />
 <h2>Description</h2>
-In this part of the project, I explore different means of remote access and assistance from Lab-Desktop-2 to Desktop2, as well as gain experience with common third part administration tools. <br/>
+In this part of the project, I explore different means of remote access and assistance from Lab-Desktop-2 to Desktop2, as well as gain experience with common third party administration tools such as PDQ Deploy and Inventory. <br/>
 
 <h2>Utilities Used</h2>
 
