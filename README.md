@@ -1,8 +1,8 @@
-<h1>Remote Administration Methods(IN PROGRESS)</h1>
+<h1>Windows Remote Administration Methods</h1>
 
 <br />
 <h2>Description</h2>
-Text
+In this part of the project, I explore different means of remote access and assistance from Lab-Desktop-2 to Desktop2, as well as gain experience with common third part administration tools. <br/>
 
 <h2>Utilities Used</h2>
 
@@ -42,7 +42,7 @@ A simple, but seemingly very powerful option that I was not aware of, is being a
 <img src="https://github.com/user-attachments/assets/1fe179fb-66f0-4444-acd7-b1286f22f679" alt="Remote Methods"/>
 <br />
 <br />
-Another native Windows remote assistance tool is... Windows Remote Assitance. To use this feature, I created an invitation on john's computer (Desktop2), saved it to my desktop, and from helpdesk on Lab-Desktop-2, I used the previous trick, to access john's file system, go to his desktop and open the invitation from there. This opened a windows for john revealing a password and a password field for helpdesk. After inputting the password on the helpdesk Pc, john is given one last prompt to allow helpdesk to view the screen of john. After clicking yes, helpdesk can now see the screen of john and if helpdesk requests access, and john accepts, helpdesk can freely use the computer as if they were there moving the mouse.<br/>
+Another native Windows remote assistance tool is... Windows Remote Assistance. To use this feature, I created an invitation on john's computer (Desktop2), saved it to my desktop, and from helpdesk on Lab-Desktop-2, I used the previous trick, to access john's file system, went to his desktop and opened the invitation from there. This opened a window for john revealing a password and a password field for helpdesk. After inputting the password on the helpdesk Pc, john is given one last prompt to allow helpdesk to view his screen. After clicking yes, helpdesk can now see the screen of john and if helpdesk requests access, and john accepts, helpdesk can freely use the computer as if they were there moving the mouse.<br/>
 <img src="https://github.com/user-attachments/assets/f9d6eeb3-1bec-48a1-97cf-d5c851d8035c" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/0bf15699-ff6b-4a6f-94fa-1625d650c8e9" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/8bed95d0-60f0-48e1-82ac-ee853b558ba0" alt="Remote Methods"/>
@@ -55,7 +55,7 @@ Within Virtual Box I installed Guest Additions which allowed me to mount a drive
  <img src="https://github.com/user-attachments/assets/7c74e0e3-7093-4b91-af18-6726ef5b8bc2" alt="Remote Methods"/>
 <br />
 <br />
-PDQ Deploy allows for administrators to remotely download applications and packages on users' machines without them knowing or disrupting their work flow making it a very useful tool. Due to me having the free version many of the features were nto availible but I was still able to successfully remotely deploy PDFsam Basic from the Windows Server to Desktop2.<br/>
+PDQ Deploy allows for administrators to remotely download applications and packages on users' machines without them knowing or disrupting their work flow making it a very useful tool. Due to me having the free version many of the features were not available but I was still able to successfully remotely deploy PDFsam Basic from the Windows Server to Desktop2.<br/>
 <img src="https://github.com/user-attachments/assets/b28291fc-7cd5-424f-804e-7ae5bab0c87e" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/6571b946-12b3-49b2-b63c-26abe2fa02c5" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/1d0f9c58-d613-4c1c-86c5-2c8f26c0cbf8" alt="Remote Methods"/>
@@ -67,28 +67,17 @@ Through the same method of the mounted drive, I installed PDQ Inventory which se
  <img src="https://github.com/user-attachments/assets/0deb4a21-7e2b-4ef3-91b0-f4fc7fbc60d5" alt="Remote Methods"/>
 <br />
 <br />
-The last remote administration tool I discovered in this project was when I was experimenting with the ticketing system Spiceworks. Under IT Tools there is Remote Assit which using Zoho Assist which is similar to Windows Remote Assistance in that you start a remote session but this time from the service side, there is a link with a passcode and after inputting the code in the site the servicer has remote access to the machine. If the servicer inputs admin privileges they are capable of administrative remote assistance to the user.<br/>
+The last remote administration tool I discovered in this project was when I was experimenting with the ticketing system Spiceworks. Under IT Tools there is Remote Assist which using Zoho Assist which is similar to Windows Remote Assistance in that you start a remote session but this time from the service side, there is a link with a passcode and after inputting the code in the site the servicer has remote access to the machine. If the servicer inputs admin privileges they are capable of administrative remote assistance to the user.<br/>
 <img src="https://github.com/user-attachments/assets/aa2890c6-0d83-4c24-a2dd-f705ba2810d4" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/1f834445-4ea3-472b-a688-6d9c0cbb04e2" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/2efee80e-1b47-4503-85e4-a99eefd9de4d" alt="Remote Methods"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Remote Methods"/>
-<br />
-<br />
-Text<br/>
-<img src="" alt="Remote Methods"/>
-<br />
-<br />
-Text<br/>
-<img src="" alt="Remote Methods"/>
-<br />
-<br />
+
 
 
 <h2>Thoughts</h2>
-text
+This part of the project was interesting in that I learned many different ways to remote into a computer, some of which were native Windows toosl while others were third party. I did not previously know about Windows Remote assistance or that in a domain setting you can view another machine's file ssytem from your own file explorer. Both of these were great to gain know about. Overall, did not run into any problems that I could not immediately fix for better or for worse. 
 <!--
  ```diff
 - text in red
