@@ -10,6 +10,7 @@ Text
 - <b>Active Directory Users and Computers</b>
 - <b>PDQ Deploy</b>
 - <b>PDQ Inventory</b>
+- <b>Spiceworks</b>
 
 <h2>Environments Used </h2>
 
@@ -62,7 +63,7 @@ Through the same method of the mounted drive, I installed PDQ Inventory which se
  <img src="https://github.com/user-attachments/assets/0deb4a21-7e2b-4ef3-91b0-f4fc7fbc60d5" alt="Remote Methods"/>
 <br />
 <br />
-Text<br/>
+The last remote administration tool I discovered in this project was when I was experimenting with the ticketing system Spiceworks<br/>
 <img src="" alt="Remote Methods"/>
 <br />
 <br />
