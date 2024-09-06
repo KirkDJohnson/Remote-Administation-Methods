@@ -43,12 +43,15 @@ Another native Windows remote assistance tool is Windows Remote Assitance, which
  <img src="https://github.com/user-attachments/assets/7bc54043-7553-4e64-87fb-fcdf73753012" alt="Remote Methods"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Remote Methods"/>
+Within Virtual I installed guest additions which allowed me to mount a drive that I share with my host computer which allows me in this case to download applications from the internet and drop them into the folder that my VM is connected to so I can keep the Windows Server on the private domain network. I first installed Deploy by PDQ and moved it into the the mounted folder ADLab. Seeing that I could access the folder and see the application in it proves I was successful.<br/>
+<img src="https://github.com/user-attachments/assets/63773f46-c452-4027-9bbb-df76bc5130e5" alt="Remote Methods"/>
+ <img src="https://github.com/user-attachments/assets/7c74e0e3-7093-4b91-af18-6726ef5b8bc2" alt="Remote Methods"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Remote Methods"/>
+PDQ Deploy allows for administrators to remotely download applications and packages on users' machines without them knowing or disrupting their work flow making it a very useful tool. Due to me having the free version many of the features were nto availible but I was still able to successfully remotely deploy PDFsam Basic from the Windows Server to Desktop2.<br/>
+<img src="https://github.com/user-attachments/assets/b28291fc-7cd5-424f-804e-7ae5bab0c87e" alt="Remote Methods"/>
+ <img src="https://github.com/user-attachments/assets/6571b946-12b3-49b2-b63c-26abe2fa02c5" alt="Remote Methods"/>
+ <img src="https://github.com/user-attachments/assets/1d0f9c58-d613-4c1c-86c5-2c8f26c0cbf8" alt="Remote Methods"/>
 <br />
 <br />
 Text<br/>
