@@ -8,6 +8,8 @@ Text
 
 - <b>Remote Desktop</b> 
 - <b>Active Directory Users and Computers</b>
+- <b>PDQ Deploy</b>
+- <b>PDQ Inventory</b>
 
 <h2>Environments Used </h2>
 
@@ -54,8 +56,10 @@ PDQ Deploy allows for administrators to remotely download applications and packa
  <img src="https://github.com/user-attachments/assets/1d0f9c58-d613-4c1c-86c5-2c8f26c0cbf8" alt="Remote Methods"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Remote Methods"/>
+Through the same method of the mounted drive, I installed PDQ Inventory which seems for trailored to generating reports and examining endpoints for applications, services, hardware, and remote connections rather than deploying applications. For example I generated a report for Desktop2 and it produced a considerable amount of system information useful of system administrators or helpdesk support. Intrestingly, you can sent/force a reboot of the machine if nesassary for servicing or deploying applications.<br/>
+<img src="https://github.com/user-attachments/assets/a08a1452-871b-42d5-a528-3d6a16737693" alt="Remote Methods"/>
+ <img src="https://github.com/user-attachments/assets/32f71d4f-15cc-42e0-89d2-d349b8b96ab6" alt="Remote Methods"/>
+ <img src="https://github.com/user-attachments/assets/0deb4a21-7e2b-4ef3-91b0-f4fc7fbc60d5" alt="Remote Methods"/>
 <br />
 <br />
 Text<br/>
