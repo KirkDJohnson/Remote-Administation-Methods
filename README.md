@@ -67,7 +67,7 @@ Through the same method of the mounted drive, I installed PDQ Inventory which se
  <img src="https://github.com/user-attachments/assets/0deb4a21-7e2b-4ef3-91b0-f4fc7fbc60d5" alt="Remote Methods"/>
 <br />
 <br />
-The last remote administration tool I discovered in this project was when I was experimenting with the ticketing system Spiceworks. Under IT Tools there is Remote Assist which using Zoho Assist which is similar to Windows Remote Assistance in that you start a remote session but this time from the service side, there is a link with a passcode and after inputting the code in the site the servicer has remote access to the machine. If the servicer inputs admin privileges they are capable of administrative remote assistance to the user.<br/>
+The last remote administration tool I explored in this project was one I found when I was experimenting with the ticketing system Spiceworks. Under IT Tools there is Remote Assist which uses Zoho Assist. The process of connecting is similar to Windows Remote Assistance in that you start a remote session but this time from the service side, there is a link with a passcode and after inputting the code in the site, the servicer has remote access to the machine. If the servicer inputs admin privileges they are capable of administrative remote assistance to the user.<br/>
 <img src="https://github.com/user-attachments/assets/aa2890c6-0d83-4c24-a2dd-f705ba2810d4" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/1f834445-4ea3-472b-a688-6d9c0cbb04e2" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/2efee80e-1b47-4503-85e4-a99eefd9de4d" alt="Remote Methods"/>
@@ -77,7 +77,7 @@ The last remote administration tool I discovered in this project was when I was 
 
 
 <h2>Thoughts</h2>
-This part of the project was interesting in that I learned many different ways to remote into a computer, some of which were native Windows toosl while others were third party. I did not previously know about Windows Remote assistance or that in a domain setting you can view another machine's file ssytem from your own file explorer. Both of these were great to gain know about. Overall, did not run into any problems that I could not immediately fix for better or for worse. 
+This part of the project was interesting in that I learned many different ways to remote into a computer, some of which were native Windows tools while others were third party. I did not previously know about Windows Remote assistance or that in a domain setting you can view and edit another machine's file system from your own file explorer. Both of these were great to gain knowledge about. Overall, I did not run into any problems that I could not immediately fix for better or for worse. 
 <!--
  ```diff
 - text in red
