@@ -55,7 +55,7 @@ Within Virtual Box I installed Guest Additions which allowed me to mount a drive
  <img src="https://github.com/user-attachments/assets/7c74e0e3-7093-4b91-af18-6726ef5b8bc2" alt="Remote Methods"/>
 <br />
 <br />
-PDQ Deploy allows for administrators to remotely download applications and packages on users' machines without them knowing or disrupting their work flow making it a very useful tool. Due to me having the free version many of the features were not available but I was still able to successfully remotely deploy PDFsam Basic from the Windows Server to Desktop2.<br/>
+PDQ Deploy allows for administrators to remotely download applications and packages on users' machines without them knowing or disrupting their work flow making it a very useful tool. Due to me having the free version many of the features were not available but I was still able to successfully remotely deploy PDFsam Basic from the Windows Server to Desktop2, without the need for any user input from john or from that endpoint at all.<br/>
 <img src="https://github.com/user-attachments/assets/b28291fc-7cd5-424f-804e-7ae5bab0c87e" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/6571b946-12b3-49b2-b63c-26abe2fa02c5" alt="Remote Methods"/>
  <img src="https://github.com/user-attachments/assets/1d0f9c58-d613-4c1c-86c5-2c8f26c0cbf8" alt="Remote Methods"/>
